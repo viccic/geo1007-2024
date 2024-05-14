@@ -100,7 +100,7 @@ function registerWFSReadAndWriteLayer(mapInstance, toc) {
      var namespace_prefix = "geo1007";
      var namespace_uri = "http://all.kinds.of.data";
      var server_url = "http://localhost:8080"
-     var layer_name = "geo1007:pois"
+     var layer_name = "pois"
      var geom_column_name = "geom"
      // End Settings
 
